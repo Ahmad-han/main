@@ -65,6 +65,10 @@ nav > ul > li {
 	margin: 20px auto;
 	cursor: pointer;
 }
+.signup:hover {
+	margin-top: -10px;
+	background-color: lightblue;
+}
 article {
 	width: 1440px;
 	margin: 70px auto;
